@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://atazeuqi.github.io/sitemap_index.atazeuqi
